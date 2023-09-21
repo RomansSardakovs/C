@@ -1,2 +1,1 @@
-# C
- CProjects
+Small and large C#/C++ projects will be published here
